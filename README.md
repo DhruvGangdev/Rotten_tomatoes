@@ -52,6 +52,4 @@ We build predictive models to estimate audience ratings:
 - Adding advanced machine learning models for better accuracy.
 - Hyperparameter tuning to optimize model performance.
 - Deploying the model as a web application.
-
-## Author
-[Your Name]
+  
