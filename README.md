@@ -1,1 +1,0 @@
-# Rotten_tomatoes
